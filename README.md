@@ -1,5 +1,4 @@
 # Bash-Script-Project
-# Introduction
 
 This program acts as Database Management System that provides the users the facility of defining, constructing and manipulating the database. 
 
@@ -11,7 +10,7 @@ This program acts as Database Management System that provides the users the faci
 
 ## Getting Started
 
-**Install**
+# Install
 
 1. Download the files on Linux OS
 
@@ -19,7 +18,7 @@ This program acts as Database Management System that provides the users the faci
 
    ex: `	chmode +x main.sh`	
 
-**Scope**
+# Scope
 
 **First stage:**
 
@@ -43,7 +42,7 @@ This program acts as Database Management System that provides the users the faci
 - ​    User will be able to select specific record
 - ​    User will be able to update certain record 
 
-# **Technologies**
+# Technologies
 
 - ​    Linux Ubuntu
 - ​     Bash Script 
