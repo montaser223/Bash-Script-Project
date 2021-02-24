@@ -4,7 +4,7 @@ This program acts as Database Management System that provides the users the faci
 
 ## Table of content
 
-- [**Install**](https://github.com/montaser223/Bash-Script-Project#Install)
+- [Install](https://github.com/montaser223/Bash-Script-Project#Install)
 - [Scope](https://github.com/montaser223/Bash-Script-Project#scope)
 - [Technologies](https://github.com/montaser223/Bash-Script-Project#technologies)
 
